@@ -7,3 +7,6 @@ def index():
 
 def con():
 	print("嘿嘿")
+
+def first():
+	return "hello world"
